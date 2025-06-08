@@ -305,23 +305,6 @@
       "calc": null
     },
     {
-      "question": "Qual das seguintes afirmações não está correcta?",
-      "answers": [
-        "Os titulares de CAN, excepto da categoria 3, podem utilizar as suas estações individuais apenas em modo de recepção",
-        "Os titulares de CAN podem utilizar estações de uso comum",
-        "Os titulares de CAN podem utilizar, de acordo com a sua categoria, estações individuais de outros amadores, com excepção das estações dos amadores da categoria 3",
-        "Os titulares de CAN, excepto da categoria 3, podem partilhar a utilização das suas estações individuais com outros amadores, de acordo com a sua categoria"
-      ],
-      "correctIndex": 1,
-      "notes": "Notas",
-      "img": null,
-      "uniqueID": 19,
-      "fonte": null,
-      "tutorial": null,
-      "materia": null,
-      "calc": null
-    },
-    {
       "question": "Duma forma geral e de acordo com as regras em vigor, ao utilizar uma estação de amador da qual não é titular, o amador deve",
       "answers": [
         "transmitir o Indicativo de Chamada (IC) da sua estação seguido do IC da estação operada",
@@ -1528,23 +1511,6 @@
       "calc": null
     },
     {
-      "question": "Qual a validade do Certificado de Amador Nacional (CAN)?",
-      "answers": [
-        "1 ano",
-        "5 anos",
-        "10 anos",
-        "20 anos"
-      ],
-      "correctIndex": 3,
-      "notes": "Notas",
-      "img": null,
-      "uniqueID": 23,
-      "fonte": null,
-      "tutorial": null,
-      "materia": null,
-      "calc": null
-    },
-    {
       "question": "Qual a validade dos Certificados de Amador Nacional (CAN)?",
       "answers": [
         "1 ano",
@@ -1592,23 +1558,6 @@
       "notes": "Notas",
       "img": null,
       "uniqueID": 89,
-      "fonte": null,
-      "tutorial": null,
-      "materia": null,
-      "calc": null
-    },
-    {
-      "question": "Qual a validade máxima de um indicativo de Chamada Ocasional (ICO)?",
-      "answers": [
-        "Dois dias",
-        "Sete dias",
-        "Um mês",
-        "Um ano"
-      ],
-      "correctIndex": 2,
-      "notes": "Notas",
-      "img": null,
-      "uniqueID": 90,
       "fonte": null,
       "tutorial": null,
       "materia": null,
@@ -2164,23 +2113,6 @@
       "calc": null
     },
     {
-      "question": "Estou a ser fortemente interferido. O que devo fazer?",
-      "answers": [
-        "Reclamar de imediato para o ICP-ANACOM",
-        "Emitir com a maior potência possível nessa frequência para manifestar o meu desagrado",
-        "Esperar que a intererência passo, pois podemos estar em presença de fenómenos anómalos de propagação",
-        "Seguir os procedimentos publicados pelo ICP-ANACOM"
-      ],
-      "correctIndex": 4,
-      "notes": "Notas",
-      "img": null,
-      "uniqueID": 120,
-      "fonte": null,
-      "tutorial": null,
-      "materia": null,
-      "calc": null
-    },
-    {
       "question": "Uma vizinha minha diz que de vez em quando tem interferências na recepção de televisão e veio perguntar se não seria das minhas emisões. O que é correcto fazer?",
       "answers": [
         "Nada, pois eu estou a trabalhar nas faixas correctas e o problema deve ser da minha instalação de recepção de televisão",
@@ -2448,40 +2380,6 @@
       "calc": null
     },
     {
-      "question": "Duma forma geral, as ondas de rádio em espaço livre",
-      "answers": [
-        "atenuam-se linearmente com a distância",
-        "atenuam-se de acordo com a lei do inverso do quadrado da distância",
-        "não se atenuam com a distância",
-        "só se atenuam se se propagarem através do ar"
-      ],
-      "correctIndex": 2,
-      "notes": "Notas",
-      "img": null,
-      "uniqueID": 137,
-      "fonte": null,
-      "tutorial": null,
-      "materia": null,
-      "calc": null
-    },
-    {
-      "question": "O Indicativo de Chamada Ocasional Anual (ICOA) é concedido",
-      "answers": [
-        "por um mês e é renovável por iguais períodos",
-        "por um ano e é renovável por iguais períodos",
-        "por cinco ano e é renovável por iguais períodos",
-        "por dez anos e é renovável por iguais períodos"
-      ],
-      "correctIndex": 2,
-      "notes": "Notas",
-      "img": null,
-      "uniqueID": 138,
-      "fonte": null,
-      "tutorial": null,
-      "materia": null,
-      "calc": null
-    },
-    {
       "question": "Uma estação repetidora em Portugal Continental (área geográfica POR) tem o prefixo",
       "answers": [
         "CR0",
@@ -2660,23 +2558,6 @@
       "calc": null
     },
     {
-      "question": "O Indicativo de Chamada (IC) de uma estação fixa principal de um amador da categoria 1 em Portugal Continental (área geográfica POR) tem o prefixo",
-      "answers": [
-        "CT7",
-        "CS7",
-        "CR7",
-        "CR9"
-      ],
-      "correctIndex": 1,
-      "notes": "Consulte: <a target='_blank' href='?LoadChapter=prefixos'>Prefixos de Indicativos de Chamada</a>",
-      "img": null,
-      "uniqueID": 149,
-      "fonte": null,
-      "tutorial": null,
-      "materia": null,
-      "calc": null
-    },
-    {
       "question": "O indicativo de Chamada (IC) de uma estação fixa principal de um amador de categoria 3 na Região Autónoma dos Açores (região AZR) tem o prefixo",
       "answers": [
         "CT8",
@@ -2705,23 +2586,6 @@
       "notes": "Consulte: <a target='_blank' href='?LoadChapter=prefixos'>Prefixos de Indicativos de Chamada</a>",
       "img": null,
       "uniqueID": 152,
-      "fonte": null,
-      "tutorial": null,
-      "materia": null,
-      "calc": null
-    },
-    {
-      "question": "O Indicativo de Chamada (IC) de uma estação fixa principal de um amador de categoria 1 no Continente (região POR) tem o prefixo",
-      "answers": [
-        "CT7",
-        "CS7",
-        "CR7",
-        "CR9"
-      ],
-      "correctIndex": 1,
-      "notes": "Consulte: <a target='_blank' href='?LoadChapter=prefixos'>Prefixos de Indicativos de Chamada</a>",
-      "img": null,
-      "uniqueID": 153,
       "fonte": null,
       "tutorial": null,
       "materia": null,
