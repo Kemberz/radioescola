@@ -11,5 +11,8 @@
     "tailwind:watch": "tailwindcss -i style.css -o ./css/style.css --watch",
     "tailwind:build": "tailwindcss -i style.css -o ./css/style.css",
     "dev": "concurrently 'npm:tailwind:watch' 'npm:serve'"
+  },
+  "dependencies": {
+    "firebase": "^11.9.0"
   }
 }
