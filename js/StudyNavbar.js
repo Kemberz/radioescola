@@ -105,4 +105,23 @@ class StudyNavbar {
 
 
     }
+
+    handleLogout() {
+        // Ensure the login modal is hidden after logout
+        const loginModal = document.getElementById('loginModal');
+        if (loginModal) {
+            loginModal.classList.add('hidden');
+        }
+        // Add logout logic here
+        console.log('User logged out');
+    }
+
+    initializeNavbar() {
+        // Ensure the login button does not persist with unwanted styles
+        const loginButton = document.getElementById('loginButton');
+        if (loginButton) {
+            loginButton.classList.remove('dark:bg-gray-900');
+        }
+        // ...existing code...
+    }
 }
